@@ -7,4 +7,4 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 
 # Linux Distribution
 
-![Mandriva](https://ih1.redbubble.net/image.221451352.5223/fposter,small,wall_texture,product,750x1000.u2.jpg)
+![Mandriva](https://upload.wikimedia.org/wikipedia/sr/8/8b/Mandriva_%D0%BB%D0%BE%D0%B3%D0%BE.png)
