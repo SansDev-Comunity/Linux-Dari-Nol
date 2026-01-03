@@ -9,4 +9,4 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 
 ![Mandriva](https://upload.wikimedia.org/wikipedia/sr/8/8b/Mandriva_%D0%BB%D0%BE%D0%B3%D0%BE.png)
 <img src="https://img.shields.io/badge/-‎-000000?style=flat&logo=none&labelColor=39ff14&color=000000" width="100%" height="2px"/>
-![Mandriva](https://www.fujitsu.com/id/Images/Suse-Logo-580x224_tcm114-102997.png)
+![Mandriva](https://worldfintechsummit.com/fintech-assets/img/past-partner/suse.png)
