@@ -14,3 +14,5 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 ### 1. Pengembangan sebuah aplikasi
 ### 2. Kebutuhan Cloud Computing Mobile Aplication dan IOT
 ### 3. Salah satu skill yang banyak di cari pada lowongan di bidang IT
+
+#
