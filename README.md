@@ -21,4 +21,4 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 2. Di perkenalkan perusahaan dari UK yang bernama Canonical pada tahun 2024
 
 # Ubuntu
-![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1200px-UbuntuCoF.svg.png)
+![Ubuntu](https://images.icon-icons.com/159/PNG/256/logo_ubuntu_22359.png)
