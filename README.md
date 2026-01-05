@@ -22,3 +22,6 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 
 # Ubuntu
 ![Ubuntu](https://images.icon-icons.com/159/PNG/256/logo_ubuntu_22359.png)
+
+### Ubuntu ada 2 versi yaitu
+### LTS & Non-LTS
