@@ -12,4 +12,4 @@
 
 1. Dowonload sesuai OS Anda
 2. Tahap dua setelah proses download virtualbox selesai, <br> Lanjut Download file ISO <br>
-ubuntu-22.04.5-live-server-amd64.iso
+[ubuntu-22.04.5-live-server-amd64.iso](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-live-server-amd64.iso)
