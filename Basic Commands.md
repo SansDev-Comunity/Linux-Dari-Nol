@@ -29,4 +29,4 @@ cat/etc/os-release = menapilkan sistem operasi <br>
 uname = menampilkan sistem operasi <br>
 Iscpu = menampilkan processor server <br>
 free -h = menapilkan memory <br>
-IsbIk / df - h
+IsbIk / df -h = menampilkan penyimpanan
