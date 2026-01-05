@@ -22,3 +22,11 @@ who = menampilkan user yang sedang login <br>
 hostnamactl = menampilkan hostname server <br>
 date / timedatectl = enampilkan tanggal dan waktu <br>
 clear = membersihkan layar <br>
+
+### Assesmen Server
+
+cat/etc/os-release = menapilkan sistem operasi <br>
+uname = menampilkan sistem operasi <br>
+Iscpu = menampilkan processor server <br>
+free -h = menapilkan memory <br>
+IsbIk / df - h
