@@ -18,4 +18,7 @@ Antar muka grafis yang lebih banyak menggunakan kursor dalam pengoperasiannya
 ### Basic Operation Linux
 
 whoami = menampilkan user yang di gunakan <br>
-who = menampilkan user yang sedang login
+who = menampilkan user yang sedang login <br>
+hostnamactl = menampilkan hostname server <br>
+date / timedatectl = enampilkan tanggal dan waktu <br>
+clear = membersihkan layar <br>
