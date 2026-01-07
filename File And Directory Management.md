@@ -9,3 +9,16 @@
 7. var : untuk menyimpan informasi proses, seperti system history, access logs, dan error logs. <br>
 8. mnt : direktori untuk menyimpan mount point sementara. <br>
 9. opt : Direktori ini berisi paket-paket Aplikasi Opsional (paket-paket yang di install user. <br>
+
+# File Management
+
+1. touch = membuat file tanpa content <br>
+2. echo/vim/vi/nano = membuat file dengan content <br>
+3. cat = menampilkan isi konten <br>
+4. head = menampilkan 10 baris pertama sebuah file <br>
+5. tail = menampilkan 10 baris terakhir sebuah file <br>
+6. rm = menghapus file <br>
+7. cp = menyalin file dan directory <br>
+8. mv = memindahkan/merename file dan directory
+
+# Directory Management
