@@ -12,3 +12,6 @@
 1. groupadd = membuat group baru <br>
 2. groupdel = menghapus group <br>
 3. groupmod = modifikasi group
+
+## File and Directory Permision
+
