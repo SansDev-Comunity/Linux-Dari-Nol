@@ -10,6 +10,11 @@ Detail lebih lanjut disini adalah tempat yang pas untuk kamu belajar Linux [Bela
 
 ![Mandriva](https://diengcyber.com/wp-content/uploads/2022/04/logo-distro-linux.png)
 
+# Kenapa Harus Belajar Belajar Linux
+
+Beberapa dari kamu mungkin pernah mendengar kalau belajar menggunakan Linux itu sulit, tetapi sekarang belajar Linux sangatlah mudah. <br>
+Kamu hanya perlu kemauan untuk belajar
+
 # Why Should Learn Linux
 
 ### 1. Pengembangan sebuah aplikasi
