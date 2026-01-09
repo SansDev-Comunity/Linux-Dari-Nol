@@ -1,4 +1,4 @@
-<img width="405" height="599" alt="image" src="https://github.com/user-attachments/assets/df9534d6-7876-4728-a2d5-e813d8a1f279" /># Apa itu Linux
+# Apa itu Linux
 
 Linux adalah sebuah sistem operasi seperti Unix yang menggunakan kernel,
 Sistem operasi ini bersifat bebas digunakan dan opensource sehingga bisa dipakai dan dikembangkan oleh semua pihak.
@@ -6,4 +6,5 @@ Sistem operasi ini bersifat bebas digunakan dan opensource sehingga bisa dipakai
 Bagi kalian yang belum tau apa itu sistem operasi,sistem operasi adalah perangkat lunak yang bertugas untuk mengelola sumberdaya/resource komputer yang
 bertugas mengelola semua sumber daya (CPU, memori, penyimpanan), menjalankan aplikasi, serta menyediakan antarmuka agar komputer bisa digunakan secara efisien dan efektif.
 
+<img width="405" height="599" alt="image" src="https://github.com/user-attachments/assets/df9534d6-7876-4728-a2d5-e813d8a1f279" />
 ![image](https://www.belajarlinux.org/wp-content/uploads/2019/03/sistem-operasi-linux.png)
