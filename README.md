@@ -5,7 +5,7 @@ Kernel Linux dikembangkan pertama kali oleh Linus Torvalds pada tahun 1991.
 
 Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghubung antara Hardwere atau System Operasi tersebut
 
-Disini adalah tempat yang pas untuk kamu belajar Linux Artikel BelajarLinux.ORG
+Disini adalah tempat yang pas untuk kamu belajar Linux Artikel [BelajarLinux.ORG](https://www.belajarlinux.org/)
 # Linux Distribution
 
 ![Mandriva](https://diengcyber.com/wp-content/uploads/2022/04/logo-distro-linux.png)
