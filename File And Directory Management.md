@@ -20,6 +20,7 @@
 6. rm = menghapus file <br>
 7. cp = menyalin file dan directory <br>
 8. mv = memindahkan/merename file dan directory
+9. chmod = Mengubah izin akses file atau direktori.
 
 # Directory Management
 
