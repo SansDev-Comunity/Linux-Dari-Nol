@@ -64,3 +64,5 @@ Hollywood punya peran besar dalam mengukuhkan topi fedora sebagai simbol maskuli
 Tak heran kalau banyak pria masa itu berusaha meniru gaya mereka. Fedora pun menjelma jadi lambang kejayaan pria urban yang berkelas tapi tetap tangguh.
 
 Selain dunia film, topi fedora juga erat kaitannya dengan figur gangster di Amerika era 1920–1940-an. Tokoh seperti Al Capone dan kelompok mafia lainnya sering terlihat mengenakan.
+
+### 4. Mint
