@@ -8,6 +8,8 @@
 
 # Kekurangan Linux
 
+Banyaknya kelebihan yang dimiliki oleh Linux bukan berarti sistem operasi ini sudah sempurna. Beberapa kelemahannya antara lain adalah sebagai berikut.
+
 1. Dukungan aplikasi komersial yang terbatas
 2. Sedikitnya dukungan terhadap hardware dan aplikasi yang terdapat pada sistem
 3. Kurang cocok digunakan untuk gamis, sehingga memerlukan alternatif lain
