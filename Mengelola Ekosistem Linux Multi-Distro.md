@@ -11,5 +11,6 @@ Nah, pada artikel ini, kita akan membahas solusi yang dapat membantu organisasi 
 ## Mengenal SUSE Multi-Linux Support (MLS)
 
 Lingkungan Linux yang heterogen mengharuskan tim IT mengelola berbagai distro dengan perbedaan package manager,
+
 <b> SUSE Multi-Linux Support (MLS) </b>
 hadir untuk menjawab tantangan tersebut, khususnya bagi organisasi yang masih harus menjalankan RHEL atau CentOS versi lama, namun tetap ingin lifecycle, patching, support, dan manajemen Linux multi-distro berjalan secara terkendali.
