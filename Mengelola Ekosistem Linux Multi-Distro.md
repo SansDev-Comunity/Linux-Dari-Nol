@@ -8,3 +8,6 @@ Penggunaan Linux multi-distro memang terlihat fleksibel.
 
 Nah, pada artikel ini, kita akan membahas solusi yang dapat membantu organisasi mengelola Linux multi-distro yang sudah EOL, khususnya pada lingkungan yang menggunakan distro seperti RHEL, CentOS, dan SUSE.
 
+## Mengenal SUSE Multi-Linux Support (MLS)
+
+Lingkungan Linux yang heterogen mengharuskan tim IT mengelola berbagai distro dengan perbedaan package manager, 
